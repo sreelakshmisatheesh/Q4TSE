@@ -46,10 +46,15 @@
     transform: rotateY(180deg);
   }
   
-  .text{
+  .textinside{
     padding: 20px;
     margin-top: 40px;
     vertical-align: middle;
     font-family: cursive;
     font-size: 12px;
+    background-color: white;
+  }
+
+  .text{
+    padding: 50px;
   }
